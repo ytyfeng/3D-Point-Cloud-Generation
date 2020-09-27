@@ -2,6 +2,12 @@
 A web app to generate a 3D Point Cloud from a set of 2D images of an item using Structure from Motion 
 ## Author: Ty Feng
 
+## YouTube Demo Video:
+[https://www.youtube.com/watch?v=vOnf5x7MeRI](https://www.youtube.com/watch?v=vOnf5x7MeRI)
+
+## Live Demo:
+[http://3d.tyfeng.com:8000](http://3d.tyfeng.com:8000)
+
 ## Inspiration
 Traditionally 3D model acquisition was not widely accessible to everyone due to the complexity of hardware required. Typically the user would need specialized cameras with depth or time-of-flight sensors in order to create 3D models. However, with Structure from Motion (SfM) techniques it is possible to create 3D models without complex hardware and cameras. Our web app allows users to upload images of an object and create a 3D point cloud of the object with the result rendered on the frontend in real-time. It democratizes technologies and algorithmic techniques to everyone. 
 
